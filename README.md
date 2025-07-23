@@ -27,4 +27,4 @@ A `tkinter` application that lets you add text or logo watermark to your images.
 
 ## 📽️ Demo
 
-<video controls src="demo.mp4" title="Image Watermark Demo" alt="Image Watermark Demo"></video>
+![Image Watermark Demo](demo.gif)
